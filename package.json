@@ -5,7 +5,7 @@
   "main": "traverse-box-items-generic.js",
   "dependencies": {
     "box-node-sdk": "^10.10.0",
-    "csv": "^6.2.7",
+    "csv": "^6.6.3",
     "p-queue": "^5.0.0",
     "winston": "^3.9.0"
   },
